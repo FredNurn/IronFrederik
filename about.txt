@@ -1,1 +1,1 @@
-Doing stallturns is fun.
+Mathilde has used the Git created by Frederik, who first pushed his frederik.txt file. Then Mathilde had to pull the git again.
