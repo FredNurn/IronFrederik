@@ -1,1 +1,1 @@
-Mathilde has used the Git created by Frederik, who first pushed his frederik.txt file. Then Mathilde had to pull the git again.
+Mathilde has used the Git created by Frederik, who first pushed his frederik.txt file. Then Mathilde had to pull the git again. And now the text gets additional input from Frederik.
